@@ -1,7 +1,7 @@
 #include <cassert>
 
 #include "single-linked-list.h"
-
+//Тесты и пример использования
 // Эта функция проверяет работу класса SingleLinkedList
 void Test() {
 	struct DeletionSpy {
